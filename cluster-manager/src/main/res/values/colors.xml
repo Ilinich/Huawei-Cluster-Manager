@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="huawei_cluster_background">#3eb75d</color>
+    <color name="huawei_cluster_text">#FFFFFF</color>
+    <color name="huawei_cluster_stroke">#FFFFFF</color>
+</resources>

@@ -1,0 +1,3 @@
+include ':cluster-manager'
+include ':app'
+rootProject.name = "HuaweiClusterManager"
